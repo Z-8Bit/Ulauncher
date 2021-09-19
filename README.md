@@ -10,3 +10,5 @@ https://ext.ulauncher.io/-/github-iboyperson-ulauncher-system
 https://ext.ulauncher.io/-/github-mikebarkmin-ulauncher-duckduckgo
 https://ext.ulauncher.io/-/github-norbr9-ulauncher-youtube-search
 ```
+
+Theme I use is uploaded above.
